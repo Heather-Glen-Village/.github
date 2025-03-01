@@ -1,2 +1,2 @@
 # .github
-Folder is used for config for this Organization
+Folder is used for the Organization Public Readme 
