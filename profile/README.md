@@ -20,7 +20,8 @@ This is the HGV Codebase where the whole project can be found here. This Project
 - Stores many of the test code for Arduino, Python and other programs to make sure the hardware is working
 - Isn't used in the final project but is useful to for test problems
 
-![image](https://github.com/user-attachments/assets/a9d14921-8f8d-4488-ada5-d5ea3c2b6ea3)
+#### Flow Chart
+![image](https://github.com/user-attachments/assets/918feee2-ba98-4b46-aa4c-7c274aa114bf)
 
 ## Contributing
 for more information on Contributing to the Codebase, please read the How to use Github Document found in the HGV Wiki
