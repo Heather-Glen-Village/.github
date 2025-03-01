@@ -1,7 +1,7 @@
 ## HGV Codebase
 This is the HGV Codebase where the whole project can be found here. This Project is split into a few Repositories with all major Parts and System Listed Below in the Flowchart. extra info for each can be found in each of the dedicated repositories.
 
-### 1. HGB-Arduino 
+### 1. HGV-Arduino 
 - Is the First part of the Projects
 - Gather Sensor data and Sends it off to other systems
 - Controls The Rooms Tempature with request from the Website 
